@@ -18,6 +18,7 @@ $result = $conn->query($sql);
     <h2>Data User</h2>
     <div style="margin-bottom: 10px;">
         <a href="tambah.php">Tambah Data</a>
+        <a href="cetak.php" style="margin-left:5px;" target="_blank">Cetak Pdf</a>
     </div>
     <table border="1">
         <tr>
